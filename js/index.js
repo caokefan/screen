@@ -13,7 +13,7 @@ const displayMediaOptions = {
   video: {
     cursor: "never"
   },
-  audio: false
+  audio: true
 };
 // Set event listeners for the start and stop buttons
 startElem.addEventListener("click", function(evt) {
